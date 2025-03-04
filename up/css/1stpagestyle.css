@@ -1,0 +1,11 @@
+
+.head{height: 150px;width: 100%; background-color: rgb(184, 221, 221); left: 0px; top: 0px; position: absolute; }
+.head h1{text-align: center;}
+.Menu{height: 50px;width: 100%; background-color: rgb(103, 156, 156); left: 0px; top: 151px; position: absolute;}
+.content{height: 300px;width: 100%; background-color: rgb(132, 151, 151); left: 0px; top: 202px; position: absolute;}
+.footer{height: 150px;width: 100%; background-color: rgb(77, 88, 88); left: 0px; top: 503px; position: absolute;}
+.Menu ul{text-align: center;}
+.Menu ul li{list-style: name; display: inline; padding: 50px; color:aliceblue}   
+.footer{text-align: center;}
+a{text-decoration: none; }
+a:hover{background-color: rgb(220, 217, 224);}
